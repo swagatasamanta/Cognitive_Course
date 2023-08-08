@@ -411,7 +411,7 @@ header .search-bar-container label:hover{
 }
 
 .course .box-container .box{
-    width: 35rem;
+    width: 30rem;
     border: .1rem solid rgba(0,0,0,.3);
     position: relative;
     margin: 1.5rem;
@@ -421,7 +421,7 @@ header .search-bar-container label:hover{
     box-shadow: 0 1rem 2rem rgba(145, 130, 130, 0.3);
 }
 .course .box-container .box img{
-    height: 20rem;
+    height: 17rem;
     width: 100%;
     object-fit: cover;
     border-top-left-radius: 30px;
@@ -480,7 +480,7 @@ header .search-bar-container label:hover{
     font-size: 3rem;
 }
 .course .box-container .box .content a .buy{
-    margin-left: 76px;
+    margin-left: 70px;
     /* background: transparent;  */
     z-index: 1;
     overflow: hidden; 
