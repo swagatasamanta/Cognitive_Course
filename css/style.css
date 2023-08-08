@@ -440,7 +440,7 @@ header .search-bar-container label:hover{
 .course .box-container .box .content .title{
     color: #1d4778;
     font-size: 1.8rem;
-    font-weight: 700;
+    font-weight: 600;
 }
 .course .box-container .box .content .title:hover{
     text-decoration: underline;
